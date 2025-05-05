@@ -1,6 +1,4 @@
-﻿HEADERnamespace a;
-
-public class IReviewRepository
+﻿public class IReviewRepository
 {
     
 }

@@ -1,6 +1,4 @@
-﻿HEADERnamespace a;
-
-public class ReviewCacheInvalidator
+﻿public class ReviewCacheInvalidator
 {
     
 }
