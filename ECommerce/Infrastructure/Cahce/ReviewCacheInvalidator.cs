@@ -1,4 +1,6 @@
-﻿public class ReviewCacheInvalidator
+﻿namespace DefaultNamespace;
+
+public class ReviewCacheInvalidator
 {
     
 }
