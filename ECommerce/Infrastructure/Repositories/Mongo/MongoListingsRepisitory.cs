@@ -1,6 +1,6 @@
 ﻿namespace DefaultNamespace;
 
-public class RedisListingsRepisitory
+public class MongoListingsRepisitory
 {
     
 }

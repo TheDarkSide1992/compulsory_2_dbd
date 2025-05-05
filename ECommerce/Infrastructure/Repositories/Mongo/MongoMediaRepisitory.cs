@@ -1,6 +1,6 @@
 ﻿namespace DefaultNamespace;
 
-public class RedisMediaRepisitory
+public class MongoMediaRepisitory
 {
     
 }
